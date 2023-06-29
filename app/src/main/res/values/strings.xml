@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejercicio_indiv_2_M_5</string>
+    <string name="question_one">¿Conoces este pokemon?</string>
+    <string name="yes_msg">¡Si lo conozco!</string>
+    <string name="no_msg">No...buuu</string>
+    <string name="txtRByes">Si</string>
+    <string name="txtRBno">No</string>
+    <string name="btn_abrir">Abrir</string>
+    <string name="btn_cerrar">Cerrar App</string>
+    <string name="descrip_pika">Imagen de pikachu</string>
+</resources>
